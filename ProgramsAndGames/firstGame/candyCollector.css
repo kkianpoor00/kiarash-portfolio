@@ -1,0 +1,10 @@
+#butterfly{
+  border: 1px solid black;
+  background-color: #FFFFFF;
+}
+
+body{
+  margin: auto;
+  width: 60%;
+  background-color: #0D63FF;
+}
